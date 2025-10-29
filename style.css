@@ -1,0 +1,11 @@
+body{
+
+    text-align: center;
+    color: white;
+}
+#my-canvas {
+    background-color:#fff;
+    margin-left: 10px; /*moves the canvas 10px from the left and the top*/
+    margin-top: 10px;
+    
+}
