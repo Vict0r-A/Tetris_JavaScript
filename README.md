@@ -10,7 +10,10 @@ This project enables fully functional Tetris gameplay. It allows keyboard contro
 - Frontend Web Development
 
 ---
+## Project Preview
+<img width="1440" height="821" alt="Screenshot 2025-10-29 at 13 54 34" src="https://github.com/user-attachments/assets/57ea2828-d004-4b82-a3cb-905a28f0838c" />
 
+---
 ## Project Structure
 
 Tetris/
